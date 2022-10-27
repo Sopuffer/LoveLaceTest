@@ -8,10 +8,12 @@
     {"id":{"name":"EllenRoom","path":"rooms/EllenRoom/EllenRoom.yy",},"order":1,},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":3,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
+    {"id":{"name":"sGem","path":"sprites/sGem/sGem.yy",},"order":3,},
     {"id":{"name":"EllenTestObject","path":"objects/EllenTestObject/EllenTestObject.yy",},"order":1,},
     {"id":{"name":"sPatrollingEnemy","path":"sprites/sPatrollingEnemy/sPatrollingEnemy.yy",},"order":2,},
     {"id":{"name":"EllenTestSprite","path":"sprites/EllenTestSprite/EllenTestSprite.yy",},"order":1,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
+    {"id":{"name":"oGem","path":"objects/oGem/oGem.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -54,6 +56,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.0.49",
+    "IDEVersion": "2022.9.1.51",
   },
 }
