@@ -3,12 +3,14 @@
   "resourceVersion": "1.6",
   "name": "LoveLaceTest",
   "resources": [
+    {"id":{"name":"oWallLevel1","path":"objects/oWallLevel1/oWallLevel1.yy",},"order":0,},
+    {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":1,},
+    {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},"order":1,},
+    {"id":{"name":"sWallLevel1","path":"sprites/sWallLevel1/sWallLevel1.yy",},"order":2,},
+    {"id":{"name":"sLevelOneBackround","path":"sprites/sLevelOneBackround/sLevelOneBackround.yy",},"order":3,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
-    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},"order":2,},
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
-    {"id":{"name":"elsatestobject","path":"sprites/elsatestobject/elsatestobject.yy",},"order":1,},
-    {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},"order":2,},
-    {"id":{"name":"elsatest","path":"objects/elsatest/elsatest.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -16,7 +18,6 @@
     {"name":"macOS","path":"options/mac/options_mac.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
-    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
   "defaultScriptType": 0,
   "isEcma": false,
@@ -26,6 +27,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":10,},
@@ -39,7 +41,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequences","folderPath":"folders/Sequences.yy","order":9,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy","order":4,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy","order":1,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":13,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Shaders/Sprites.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy","order":6,},
   ],
