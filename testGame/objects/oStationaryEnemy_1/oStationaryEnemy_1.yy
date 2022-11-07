@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "oStationaryEnemy_1",
   "spriteId": {
-    "name": "sEnemy",
-    "path": "sprites/sEnemy/sEnemy.yy",
+    "name": "sPatrollingEnemy",
+    "path": "sprites/sPatrollingEnemy/sPatrollingEnemy.yy",
   },
   "solid": false,
   "visible": true,
