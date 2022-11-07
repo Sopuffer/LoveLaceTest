@@ -1,5 +1,5 @@
-player_x = oPlayer_1.x
-player_y = oPlayer_1.y
+player_x = oPlayer.x
+player_y = oPlayer.y
 
 if(point_distance(x,y,player_x,player_y) < 200)
 {
