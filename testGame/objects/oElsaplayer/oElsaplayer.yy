@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oStationaryEnemy_1",
+  "name": "oElsaplayer",
   "spriteId": {
-    "name": "sPatrollingEnemy",
-    "path": "sprites/sPatrollingEnemy/sPatrollingEnemy.yy",
+    "name": "sElsaplayer",
+    "path": "sprites/sElsaplayer/sElsaplayer.yy",
   },
   "solid": false,
   "visible": true,
