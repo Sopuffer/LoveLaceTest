@@ -23,6 +23,8 @@
     {"id":{"name":"EllenRoom_1","path":"rooms/EllenRoom_1/EllenRoom_1.yy",},"order":4,},
     {"id":{"name":"sGem","path":"sprites/sGem/sGem.yy",},"order":3,},
     {"id":{"name":"sLevelOneBackround","path":"sprites/sLevelOneBackround/sLevelOneBackround.yy",},"order":5,},
+    {"id":{"name":"oEllenPlayer","path":"objects/oEllenPlayer/oEllenPlayer.yy",},"order":17,},
+    {"id":{"name":"sEllenPlayer","path":"sprites/sEllenPlayer/sEllenPlayer.yy",},"order":12,},
     {"id":{"name":"sPatrollingEnemy","path":"sprites/sPatrollingEnemy/sPatrollingEnemy.yy",},"order":0,},
     {"id":{"name":"sWallLevel1","path":"sprites/sWallLevel1/sWallLevel1.yy",},"order":6,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
@@ -41,8 +43,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"EllenRoom_1","path":"rooms/EllenRoom_1/EllenRoom_1.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"EllenRoom_1","path":"rooms/EllenRoom_1/EllenRoom_1.yy",},},
     {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
   ],
   "Folders": [
