@@ -5,12 +5,12 @@ down=keyboard_check(vk_down)
 var movement=right-left
 var vMovement = down-up
 hsp=movement*wSpeed
-x+=hsp
 
 vsp=vMovement * wSpeed
 
 if(place_meeting(x+hsp,y,oWall))
 {
+	
 	while(!place_meeting(x+hsp,y,oWall))
 	{
 		x+=sign(hsp)
@@ -26,3 +26,9 @@ if(place_meeting(x,y+vsp,oWall))
 	}
 	vsp=0
 }
+x+=hsp
+y+=vsp
+
+if hp <=0 then
+game_restart()
+
