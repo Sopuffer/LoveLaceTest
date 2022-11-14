@@ -1,5 +1,5 @@
-player_x = oPlayer.x
-player_y = oPlayer.y
+player_x = oElinaPlayer.x
+player_y = oElinaPlayer.y
 
 if(point_distance(x,y,player_x,player_y) < 200)
 {

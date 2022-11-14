@@ -5,7 +5,7 @@ var movement=right-left
 hsp=movement*wSpeed
 vsp+=g
 
-if(place_meeting(x+hsp,oWall))
+if(place_meeting(x+hsp,y,oWall))
 {
 	while(!place_meeting(x+sign(hsp),y,oWall))
 	{
@@ -16,7 +16,7 @@ if(place_meeting(x+hsp,oWall))
 	
 if(place_meeting(x,y+vsp,oWall))
 {
-	while(!place_meeting(x,y+sign(vsp),y,oWall))
+	while(!place_meeting(x,y+sign(vsp),oWall))
 	{
 		x+=sign(vsp)
 	}
@@ -24,3 +24,6 @@ if(place_meeting(x,y+vsp,oWall))
 }
 x+=hsp	
 y+=vsp
+
+if hp <=0 then
+game_restart()
