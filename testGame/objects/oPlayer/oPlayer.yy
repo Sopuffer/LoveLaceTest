@@ -32,6 +32,6 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
-    "path": "folders/Animation Curves/Objects.yy",
+    "path": "folders/Objects.yy",
   },
 }

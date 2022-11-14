@@ -25,5 +25,7 @@ if(place_meeting(x,y+vsp,oWall))
 	 }
 	 vsp = 0
 }
+if(hp<=0)
+game_restart()
 x+=hsp
 y+=vsp

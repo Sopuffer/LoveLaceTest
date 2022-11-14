@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "oWall",
-  "spriteId": null,
+  "spriteId": {
+    "name": "sWallLevel1",
+    "path": "sprites/sWallLevel1/sWallLevel1.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
@@ -26,6 +29,6 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
-    "path": "folders/Animation Curves/Objects.yy",
+    "path": "folders/Objects.yy",
   },
 }
