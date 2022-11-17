@@ -8,4 +8,5 @@ maxHp = hp
 
 health_width=150
 health_height = 24
+attacking=true
 

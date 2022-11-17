@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "testGame",
   "resources": [
+    {"id":{"name":"oMouth","path":"objects/oMouth/oMouth.yy",},"order":19,},
     {"id":{"name":"PPEnemy_1","path":"paths/PPEnemy_1/PPEnemy_1.yy",},"order":1,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":12,},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},"order":2,},
@@ -16,6 +17,7 @@
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":9,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":16,},
     {"id":{"name":"oGem_1","path":"objects/oGem_1/oGem_1.yy",},"order":7,},
+    {"id":{"name":"sAttackPlayer","path":"sprites/sAttackPlayer/sAttackPlayer.yy",},"order":15,},
     {"id":{"name":"oFire","path":"objects/oFire/oFire.yy",},"order":18,},
     {"id":{"name":"oPatrollingEnemy_1","path":"objects/oPatrollingEnemy_1/oPatrollingEnemy_1.yy",},"order":1,},
     {"id":{"name":"oStationaryEnemy_1","path":"objects/oStationaryEnemy_1/oStationaryEnemy_1.yy",},"order":14,},
@@ -26,6 +28,7 @@
     {"id":{"name":"sGem","path":"sprites/sGem/sGem.yy",},"order":3,},
     {"id":{"name":"sLevelOneBackround","path":"sprites/sLevelOneBackround/sLevelOneBackround.yy",},"order":5,},
     {"id":{"name":"oEllenPlayer","path":"objects/oEllenPlayer/oEllenPlayer.yy",},"order":17,},
+    {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},"order":14,},
     {"id":{"name":"sEllenPlayer","path":"sprites/sEllenPlayer/sEllenPlayer.yy",},"order":12,},
     {"id":{"name":"sPatrollingEnemy","path":"sprites/sPatrollingEnemy/sPatrollingEnemy.yy",},"order":0,},
     {"id":{"name":"sWallLevel1","path":"sprites/sWallLevel1/sWallLevel1.yy",},"order":6,},
@@ -69,10 +72,10 @@
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
   ],
   "TextureGroups": [
-    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.0.49",
+    "IDEVersion": "2022.8.1.37",
   },
 }
