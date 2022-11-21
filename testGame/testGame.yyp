@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"PPEnemy_1","path":"paths/PPEnemy_1/PPEnemy_1.yy",},"order":0,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":12,},
+    {"id":{"name":"oElsaBullet","path":"objects/oElsaBullet/oElsaBullet.yy",},"order":19,},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},"order":2,},
     {"id":{"name":"sGun","path":"sprites/sGun/sGun.yy",},"order":13,},
     {"id":{"name":"sElsaplayer","path":"sprites/sElsaplayer/sElsaplayer.yy",},"order":12,},
@@ -19,6 +20,7 @@
     {"id":{"name":"oGem_1","path":"objects/oGem_1/oGem_1.yy",},"order":7,},
     {"id":{"name":"oPatrollingEnemy_1","path":"objects/oPatrollingEnemy_1/oPatrollingEnemy_1.yy",},"order":1,},
     {"id":{"name":"elsaroom","path":"rooms/elsaroom/elsaroom.yy",},"order":5,},
+    {"id":{"name":"oGun","path":"objects/oGun/oGun.yy",},"order":18,},
     {"id":{"name":"oStationaryEnemy_1","path":"objects/oStationaryEnemy_1/oStationaryEnemy_1.yy",},"order":14,},
     {"id":{"name":"oElsaplayer","path":"objects/oElsaplayer/oElsaplayer.yy",},"order":17,},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},"order":10,},
@@ -27,6 +29,7 @@
     {"id":{"name":"sGem","path":"sprites/sGem/sGem.yy",},"order":3,},
     {"id":{"name":"sLevelOneBackround","path":"sprites/sLevelOneBackround/sLevelOneBackround.yy",},"order":5,},
     {"id":{"name":"sPatrollingEnemy","path":"sprites/sPatrollingEnemy/sPatrollingEnemy.yy",},"order":0,},
+    {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},"order":14,},
     {"id":{"name":"sWallLevel1","path":"sprites/sWallLevel1/sWallLevel1.yy",},"order":6,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
