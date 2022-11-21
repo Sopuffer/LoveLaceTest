@@ -24,6 +24,9 @@ if(place_meeting(x,y+vsp,oWall))
 }
 x+=hsp	
 y+=vsp
-
+if isattacking then {
+sprite_index=sElinaAttack
+}
+else sprite_index=sElinaPlayer
 if hp <=0 then
 game_restart()

@@ -4,7 +4,7 @@
   "name": "testGame",
   "resources": [
     {"id":{"name":"sElinaPlayer","path":"sprites/sElinaPlayer/sElinaPlayer.yy",},"order":12,},
-    {"id":{"name":"sPlayerAttack","path":"sprites/sPlayerAttack/sPlayerAttack.yy",},"order":13,},
+    {"id":{"name":"sElinaAttack","path":"sprites/sElinaAttack/sElinaAttack.yy",},"order":13,},
     {"id":{"name":"PPEnemy_1","path":"paths/PPEnemy_1/PPEnemy_1.yy",},"order":1,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":12,},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},"order":2,},
