@@ -5,6 +5,7 @@ if(point_distance(x,y,player_x,player_y) < 200)
 {
 	path_end()
 	mp_potential_step_object(player_x,player_y,3.5,false)
+	
 }
 
 else if(path_index != Path1)
