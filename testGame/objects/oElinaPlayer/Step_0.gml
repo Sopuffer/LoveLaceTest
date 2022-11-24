@@ -36,9 +36,12 @@ else if hsp!=0 and vsp==0 then {
 	sprite_index = sElinaWalk
 	image_speed=1
 	}
-
+else if hp <=0 then
+{
+ sprite_index=sElinaDead
+ image_speed= 1
+}
 else sprite_index=sElinaPlayer
 
 
-if hp <=0 then
-game_restart()
+
