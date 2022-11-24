@@ -11,6 +11,7 @@
     {"id":{"name":"oLevelOneBackround_1","path":"objects/oLevelOneBackround_1/oLevelOneBackround_1.yy",},"order":13,},
     {"id":{"name":"EllenTestSprite","path":"sprites/EllenTestSprite/EllenTestSprite.yy",},"order":2,},
     {"id":{"name":"sPlayer_1","path":"sprites/sPlayer_1/sPlayer_1.yy",},"order":4,},
+    {"id":{"name":"sEllenDeath","path":"sprites/sEllenDeath/sEllenDeath.yy",},"order":17,},
     {"id":{"name":"sFire","path":"sprites/sFire/sFire.yy",},"order":13,},
     {"id":{"name":"oWallLevel1","path":"objects/oWallLevel1/oWallLevel1.yy",},"order":11,},
     {"id":{"name":"sPatrollingEnemy_1","path":"sprites/sPatrollingEnemy_1/sPatrollingEnemy_1.yy",},"order":8,},

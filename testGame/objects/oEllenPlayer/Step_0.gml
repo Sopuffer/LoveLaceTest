@@ -33,6 +33,9 @@ if(place_meeting(x,y+vsp,oWall))
 x+=hsp
 y+=vsp
 
-if hp <=0 then
-game_restart()
+if hp <= 0 then
+{
+	sprite_index = sEllenDeath
+	image_speed = 1
+}
 
