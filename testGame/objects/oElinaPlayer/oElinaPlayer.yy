@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "oElinaPlayer",
   "spriteId": {
-    "name": "sElinaPlayer",
-    "path": "sprites/sElinaPlayer/sElinaPlayer.yy",
+    "name": "sElinaWalk",
+    "path": "sprites/sElinaWalk/sElinaWalk.yy",
   },
   "solid": false,
   "visible": true,
@@ -41,6 +41,6 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
-    "path": "folders/Notes/Objects.yy",
+    "path": "folders/Objects.yy",
   },
 }
