@@ -9,7 +9,10 @@
   "solid": false,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sElsaplayer",
+    "path": "sprites/sElsaplayer/sElsaplayer.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,

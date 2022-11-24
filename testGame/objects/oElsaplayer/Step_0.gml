@@ -27,5 +27,9 @@ if(place_meeting(x,y+vsp,oWall))
 }
 if(hp<=0)
 game_restart()
+
+if hsp!=0 and vsp==0 then sprite_index=sElsaWalk
+else sprite_index=sElsaplayer
+
 x+=hsp
 y+=vsp
