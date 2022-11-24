@@ -25,10 +25,15 @@ if(place_meeting(x,y+vsp,oWall))
 	 }
 	 vsp = 0
 }
-if(hp<=0)
-game_restart()
+
 
 if hsp!=0 and vsp==0 then sprite_index=sElsaWalk
+else if(hp<=0)
+{
+ sprite_index=sElsaDeath
+ image_speed = 1
+}
+
 else sprite_index=sElsaplayer
 
 x+=hsp
