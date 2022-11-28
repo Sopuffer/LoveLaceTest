@@ -1,7 +1,7 @@
-right = keyboard_check(vk_right)
-left = keyboard_check(vk_left)
-up = keyboard_check(vk_up)
-down = keyboard_check(vk_down)
+right = keyboard_check(vk_right) or keyboard_check(ord("A"))
+left = keyboard_check(vk_left) or keyboard_check(ord("D"))
+up = keyboard_check(vk_up) or keyboard_check(ord("W"))
+down = keyboard_check(vk_down) or keyboard_check(ord("S"))
 
 var hMove = righht - left
 var vMove = up - downn
@@ -13,7 +13,7 @@ if place_meeting(x+hsp,y,owall) then
 {
 	while !place_meeting(x+sign(hsp),y,owall)
 	{
-		x +=sign(hsp)
+		x+=sign(hsp)
 	}
 	hsp = 0
 }
@@ -22,7 +22,7 @@ if place_meeting(x,y+vsp,owall) then
 {
 	while !place_meeting(x,y+sign(vsp),owall)
 	{
-		x +=sign(hsp)
+		x+=sign(hsp)
 	}
 	hsp = 0
 }
