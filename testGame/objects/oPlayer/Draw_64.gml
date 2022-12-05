@@ -1,0 +1,1 @@
+draw_sprite_stretched(sHealth,0,30,30, (hp/maxHp)* health_w, health_h)

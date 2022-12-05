@@ -25,7 +25,10 @@ if(place_meeting(x,y+vsp,oWall))
 }
 
 if(hp<=0)
-game_restart()
+{
+	game_restart()
+	//sprite index is sDeath
+}
 
 x+=hsp
 y+=vsp
