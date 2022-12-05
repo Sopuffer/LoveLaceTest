@@ -24,6 +24,7 @@
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},"order":10,},
     {"id":{"name":"ElinaRoom","path":"rooms/ElinaRoom/ElinaRoom.yy",},"order":5,},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":7,},
+    {"id":{"name":"sPlayerWalk","path":"sprites/sPlayerWalk/sPlayerWalk.yy",},"order":16,},
     {"id":{"name":"sPlayer_2","path":"sprites/sPlayer_2/sPlayer_2.yy",},"order":11,},
     {"id":{"name":"EllenRoom_1","path":"rooms/EllenRoom_1/EllenRoom_1.yy",},"order":4,},
     {"id":{"name":"sGem","path":"sprites/sGem/sGem.yy",},"order":3,},
