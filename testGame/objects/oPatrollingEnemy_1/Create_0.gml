@@ -6,3 +6,4 @@ Path1 = PPEnemy_1
 path_start(Path1, 2, path_action_reverse,false)
 timer = 0
 maxtime =5
+inlove=false
