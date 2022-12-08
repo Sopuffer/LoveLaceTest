@@ -7,7 +7,7 @@ if(point_distance(x,y,player_x,player_y) < 200)
 	mp_potential_step_object(player_x,player_y,3.5,false)
 	timer += 0.1
 	
-	angle = point_direction(x,y, oEllenPlayer.x, oEllenPlayer.y)
+	angle = point_direction(x,y, oPlayer.x, oPlayer.y)
 	if(timer>=maxtime){
 		timer = 0
 		with(instance_create_layer(x,y, "Instances", oFire))
