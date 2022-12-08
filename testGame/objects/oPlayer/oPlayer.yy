@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "oPlayer",
   "spriteId": {
-    "name": "sPlayer_2",
-    "path": "sprites/sPlayer_2/sPlayer_2.yy",
+    "name": "sPlayerDeath",
+    "path": "sprites/sPlayerDeath/sPlayerDeath.yy",
   },
   "solid": false,
   "visible": true,
