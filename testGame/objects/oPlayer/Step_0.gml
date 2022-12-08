@@ -29,6 +29,18 @@ if(hp<=0)
 	game_restart()
 	//sprite index is sDeath
 }
+//Animations
+if !place_meeting(x,y+1,oWall) then 
+{
+	image_speed=0 
+	sprite_index=sPlayerJump
+	if sign(vsp) < 0
+	then image_index=0 else image_index=1
+}
+else
+	
+	sprite_index=sPlayer_2
+
 
 x+=hsp
 y+=vsp
