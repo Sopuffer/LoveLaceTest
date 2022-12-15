@@ -13,7 +13,7 @@
   "bbox_left": 22,
   "bbox_right": 63,
   "bbox_top": 10,
-  "bbox_bottom": 49,
+  "bbox_bottom": 48,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -65,6 +65,7 @@
   },
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"26b9c779-e9e1-42a9-a6cc-acbb83a63994","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6002b227-6695-4f0f-b3d6-992df211d942","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1",},
   ],
   "nineSlice": null,
   "parent": {

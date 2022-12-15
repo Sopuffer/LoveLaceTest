@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPatrollingEnemy_1",
+  "name": "oPatrollingEnemy",
   "spriteId": {
     "name": "sPatrollingEnemy",
     "path": "sprites/sPatrollingEnemy/sPatrollingEnemy.yy",

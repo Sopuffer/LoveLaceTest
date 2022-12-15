@@ -25,7 +25,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oPatrollingEnemy_1","path":"objects/oPatrollingEnemy_1/oPatrollingEnemy_1.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oPatrollingEnemy","path":"objects/oPatrollingEnemy/oPatrollingEnemy.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oStationaryEnemy_1","path":"objects/oStationaryEnemy_1/oStationaryEnemy_1.yy",},},
   ],
   "properties": [],
